@@ -150,13 +150,6 @@ Classification Report:
 ├── notebook/
 │   └── bank_marketing_analysis.ipynb
 │
-├── images/
-│   ├── eda/
-│   ├── clustering/
-│   └── evaluation/
-│
-├── report/
-│   └── final_report.pdf
 │
 └── README.md
 ```
